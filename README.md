@@ -1,19 +1,16 @@
-# Таганрогское JS-сообщество
+# Митапы
+Презентации докладов, фотки и прочая информация.
 
-## Стажировка
-- [Lodoss](http://lodossteam.tilda.ws/frontend-course) (Frontend, Node)
-- [Oggetto](http://oggetto.academy) (Frontend)
+### 7. Про Реакт и развитие, 14 июля 2018
+- Опыт разработки на React-Native, Дмитрий Безматерных. 
+- Mobx и почему стоит смотреть по сторонам, Евгений Воронин. 
+- [Learning for Mastery VS Getting Shit Done](http://andreymiskov.ru/keynotes/learn-for-mastery/), Андрей Миськов.
 
-## Доклады
-### 14.07.2018
-Митап в офисе Lodoss Team.
+### 6. Софт-скиллз, 16 июня 2018
+- [Hard vs. Soft: что это за навыки и с чем их едят?](https://yadi.sk/i/q19cvFDi3Y4PEh). Лада Родзина, руководитель клиентского отдела INOSTUDIO.
+- 1:1 в вашу пользу. Дарья Гвоздева, старший менеджер проектов, КИНОПЛАН.
+- Научно-фантастический доклад «3 закона разработотехники». Кирилл Ласомбра, Human Developer, Roonyx (Руникс)
+- [Кривая развития программиста или притча о следах на песке](http://bit.ly/programmers_way). Роман Кудлай, IT Директор в Lodoss Team.
+- [Огонь, иди уже... или почему не все так просто со сменой работы](http://andreymiskov.ru/keynotes/ogon/). Андрей Миськов.
 
-- Про React Native
-- Про Mobx
-- Про Getting Shit done
-
-### ...
-
-- ...
-- ...
-- ...
+[Фотки](https://vk.com/album-159767167_253894369).
